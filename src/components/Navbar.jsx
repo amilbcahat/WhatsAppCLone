@@ -6,6 +6,7 @@ export default function Navbar() {
         <NavLink to="/">Home</NavLink>
         <NavLink to="/message">message</NavLink>
         <NavLink to="/bookmark">bookmark</NavLink>
+        <NavLink to="/profile">Profile</NavLink>
     </nav>
   )
 }
