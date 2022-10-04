@@ -8,7 +8,7 @@ function AcadhutNavbar() {
       <div className="header"> 
         <div className="container">
           <div className="parent">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png" width="125px" alt=""/>
+            <img src={require('./croplogo.png')} width="125px" alt=""/>
             <div className="swiching">
                 <NavLink to="/" className="mx-3 home">Home</NavLink>
                 <NavLink to="/message" className=" mx-3 Messages">message</NavLink>
@@ -17,7 +17,7 @@ function AcadhutNavbar() {
             <div>Search bar</div>
             <div>
               <div className="level">Level 1 - 40%</div>
-              <input className="range" type="range" defaultValue={0} min={0} max={1000} />
+              <input className="range" type="range" defaultValue={40} min={0} max={100} />
             </div>
             <div>
               <div className="acc">
