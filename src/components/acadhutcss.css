@@ -1,14 +1,10 @@
-*{
-    font-family: 'Poppins';
-    font-style: normal;
-}
 .header{
     box-sizing: border-box;
     position: sticky;
     top:0px;
     background: #FFFFFF;
-border-bottom: 0.5px solid rgba(0, 0, 0, 0.15);
-box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
 }
 .parent{
     display:flex;
@@ -38,19 +34,17 @@ box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
 }
 .home{
     font-family: 'Poppins';
-font-style: normal;
+    font-style: normal;
     font-weight: 600;
-font-size: 14px;
-line-height: 21px;
-padding-bottom:3px ;
+    font-size: 14px;
+    line-height: 21px;
+    padding-bottom:3px ;
     background: linear-gradient(266.75deg, #E73BCF 2.56%, #DA1C5C 98.46%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-border-bottom: 3px solid #DA1C5C;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    border-bottom: 3px solid #DA1C5C;
 }
-
-
 .range {
     width: 126px;
     height: 9px;
@@ -69,26 +63,21 @@ border-bottom: 3px solid #DA1C5C;
     cursor: pointer;
     box-shadow: -407px 0 0 400px #15AE11;
   }
-  
-
-.level{
-    
+.level{ 
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 12px;
-color: #4A4A4A;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #4A4A4A;
 }
 .range-slider{
     align-self: center;
-
 }
 .acc{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
-
 .acc1{
     width: 29px;
     height: 30px;
@@ -100,11 +89,11 @@ color: #4A4A4A;
 }
 .acc3{
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-color: #555555;
-text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #555555;
+    text-decoration: none;
 }
 .acc3:hover{
     color: #555555 !important;
@@ -115,7 +104,6 @@ text-decoration: none;
     width: 42px;
     border-radius: 50%;
 }
-
 .acc3{
     display:flex;
 }
