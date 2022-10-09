@@ -1,0 +1,71 @@
+.right{
+    width:29%;
+}
+.right .trending{
+    padding-left:35px;
+    padding-right:35px;
+    background: #fff;
+    border-radius: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 350px;
+}
+.trending::-webkit-scrollbar{
+    display: none;
+}
+.course-heading{
+    padding-top: 7%;
+    text-align:center ;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #414141;
+}
+.rank{
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    border-bottom: 0.5px solid #d9d9d9;
+    color: #636363;
+}
+.trendingview{
+    margin: 0 auto;
+}
+.viewall{
+    margin-top: 3%;
+    margin-left: 35%;
+    border: 1px solid #424242;
+    border-radius: 15px;
+    padding: 2px 12px 4px 12px;
+}
+.viewbtntext {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-decoration: none;
+    color: #333333;
+}
+.course-recommended{
+    margin-top: 10px ;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.course-recomended-wrapper{
+    border-bottom: 0.5px solid #D2D2D2;
+    padding:3% 7% 3% 7%;
+    display: flex;
+}
+.title-course-list{
+    padding:0 20px 0 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #424242;
+}
+.mini-title{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #494949;
+}

@@ -16,7 +16,7 @@ function AcadhutNavbar() {
             </div>
             <div>Search bar</div>
             <div>
-              <div className="level">Level 1 - 40%</div>
+              <div className="level">Level <span>1</span> - <span>40%</span></div>
               <input className="range" type="range" defaultValue={40} min={0} max={100} />
             </div>
             <div>
@@ -27,7 +27,7 @@ function AcadhutNavbar() {
                 <div className="acc2">
                   <img className="profile" src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80" alt="" />
                 </div>
-                  <NavLink to="/profile" className="acc3">Zero 13</NavLink>
+                  <NavLink to="/profile" className="acc3"><span>Zero 13</span></NavLink>
               </div>
             </div>
           </div>
