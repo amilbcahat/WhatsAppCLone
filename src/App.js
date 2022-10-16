@@ -9,13 +9,13 @@ import AcadhutNavbar from './components/AcadhutNavbar';
 function App() {
   return (
     <>
-      <AcadhutNavbar/>
+      <AcadhutNavbar />
       <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/message" element={<Message/>} />
-        <Route path="/bookmark" element={<Bookmark/>} />
-        <Route path="/profile" element={<UserProfile/>} />
-        <Route path="*" element={<Error/>}/>
+        <Route path="/" element={<Home />} />
+        <Route path="/message" element={<Message />} />
+        <Route path="/bookmark" element={<Bookmark />} />
+        <Route path="/profile" element={<UserProfile />} />
+        <Route path="*" element={<Error />} />
       </Routes>
     </>
   );
