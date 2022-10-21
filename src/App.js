@@ -22,6 +22,8 @@ function App() {
         <Route element={<LoggedInRoutes />}>
           <Route path="/" element={<Home />} />
           <Route path="/message" element={<Message />} />
+          <Route path="/message/:username" element={<Message />} />
+
           <Route path="/bookmark" element={<Bookmark />} />
           <Route path="/profile" element={<UserProfile />} />
           <Route path="*" element={<Error />} />

@@ -1,12 +1,10 @@
 import React from "react";
 
-function RecieveMsg() {
+function RecieveMsg({ content, i }) {
   return (
     <>
       <div className="msgrecieve">
-        <span className="msgvalue">
-          message Recieve by user From his friend
-        </span>
+        <span className="msgvalue">{content}</span>
       </div>
     </>
   );

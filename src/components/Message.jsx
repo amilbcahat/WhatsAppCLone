@@ -1,7 +1,10 @@
 import React from "react";
 import Chatarea from "./message/main/Chatarea";
 import "./message.css";
+import { useNavigate, useParams } from "react-router-dom";
+
 function Message() {
+  const { username } = useParams();
   return (
     <>
       <div
@@ -13,7 +16,7 @@ function Message() {
         }}
         className="message"
       >
-        <Chatarea />
+        <Chatarea username={username} />
       </div>
     </>
   );
