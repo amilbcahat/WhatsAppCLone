@@ -29,9 +29,9 @@ function Home() {
   return (
     <>
       <div className="feed pt-2">
-        <LeftofMainPage />
+        {/* <LeftofMainPage /> */}
         <MainFeed />
-        <RightofMainPage />
+        {/* <RightofMainPage /> */}
       </div>
     </>
   );

@@ -229,6 +229,7 @@ function Chatarea({ username }) {
             istyping={istyping}
             setIsTyping={setIsTyping}
             reciever={reciever}
+            style={{ border: "none", outline: "none" }}
           />
         </div>
       </div>

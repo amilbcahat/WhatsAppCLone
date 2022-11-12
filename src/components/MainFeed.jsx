@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import Center from "./mainpagecenter/Center";
 
 function MainFeed() {
-  return (
-    <div>MainFeed</div>
-  )
+  return <Center />;
 }
 
-export default MainFeed
+export default MainFeed;

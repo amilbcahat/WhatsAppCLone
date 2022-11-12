@@ -118,8 +118,8 @@ function Inputarea({
               e.key === "Enter" && sendMessage();
             }}
           ></input>
-          <div className="send">
-            <button onClick={sendMessage}>Send</button>
+          <div className="send" onClick={sendMessage} sty>
+            <i class="fa-solid fa-paper-plane-top"></i>
           </div>
           <div
             className="emoji"

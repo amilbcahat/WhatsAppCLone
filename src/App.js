@@ -17,9 +17,9 @@ function App() {
 
   return (
     <>
-      <AcadhutNavbar />
+      {/* <AcadhutNavbar /> */}
       <Routes>
-        <Route element={<LoggedInRoutes />}>
+        <Route>
           <Route path="/" element={<Home />} />
           <Route path="/message" element={<Message />} />
           <Route path="/message/:username" element={<Message />} />
@@ -29,9 +29,9 @@ function App() {
           <Route path="*" element={<Error />} />
         </Route>
 
-        <Route element={<NotLoggedInRoutes />}>
+        {/* <Route element={<NotLoggedInRoutes />}>
           <Route path="/login" element={<Login />} />
-        </Route>
+        </Route> */}
       </Routes>
     </>
   );

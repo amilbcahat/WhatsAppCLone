@@ -2,21 +2,23 @@ import React from "react";
 import Chatarea from "./message/main/Chatarea";
 import "./message.css";
 import { useNavigate, useParams } from "react-router-dom";
-
+import User from "./message/Left/User";
+import UserProfile from "./message/right/UserProfile";
 function Message() {
   const { username } = useParams();
   return (
     <>
-      <div
-        style={{
-          backgroundColor: "#D7D7D7",
-          paddingTop: "20px",
-          paddingBottom: "20px",
-          height: "92vh",
-        }}
-        className="message"
-      >
-        <Chatarea username={username} />
+      <div className="message">
+        <div>
+          <User />
+        </div>
+
+        <div>
+          <Chatarea username={username} />
+        </div>
+        <div>
+          <UserProfile />
+        </div>
       </div>
     </>
   );
