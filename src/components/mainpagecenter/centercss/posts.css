@@ -1,0 +1,62 @@
+.post{
+    display:flex;
+    margin-top: 8px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding:24px 20px;
+}
+.userprofilepic img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 16px;
+}
+.userdetails{
+    display: flex;
+    align-items: center;
+    margin-bottom:15px;
+}
+.postdetails .userdetails .username{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #141414;
+}
+.postdetails .userdetails .tags{
+    margin-left:10px;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    color: #DA1C5C;
+}
+.postdetails .posttext{
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    color: #1C1C1C;
+    word-wrap: break-word;
+}
+.postdetails .totalcomments{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #545454;
+    margin:10px 0px 10px 0px;
+}
+.likeandcomments{
+    overflow-y: hidden;
+}
+.likeandcomments::-webkit-scrollbar{
+    display: none;
+}
+@media screen and (max-width: 768px){
+    .post{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .userprofilepic img{
+        width: 40px;
+        height: 40px;
+    }
+}

@@ -1,0 +1,46 @@
+.modal-content{
+    padding-top:20px;
+    padding-bottom:50px;
+}
+.header-title{
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #535353;
+}
+.close{
+    margin-left: auto; 
+margin-right: 0;
+}
+textarea {
+    width: 100%;
+    max-height:250px;
+    min-height:150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    background: #F1F1F1;
+border: 1px solid #D6D6D6;
+border-radius: 5px;
+    font-size: 16px;
+    resize: none;
+    outline: none;
+  }
+  .post-button{
+    background: #1BD816;
+border-radius: 5.5px;
+border: none;
+outline: none;
+font-weight: 600;
+font-size: 17.6px;
+line-height: 26px;
+padding: 6px 24px;
+color: #FFFFFF;
+  }
+  .userdetails span{
+    font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #575757;
+padding-left: 10px;
+  }
