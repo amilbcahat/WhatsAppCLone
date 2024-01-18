@@ -1,0 +1,5941 @@
+[{
+  "_id": {
+    "$oid": "62f423343332f5658834200c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660166961960"
+    }
+  },
+  "content": "This is the first Group message",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f4248bbba30b4364a110ba"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62e960fea8516f3238691139"
+    },
+    {
+      "$oid": "62d0f477921480b238084142"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660167306977"
+    }
+  },
+  "content": "This is the first Group message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f4fc8cbffcbc77c0de6bd8"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660222548437"
+    }
+  },
+  "GroupName": "69 Lover",
+  "GroupNameSlug": "69-Lover",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62f5009fcef3b02074b04bc6"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660223377493"
+    }
+  },
+  "content": "This is the first Group message by Amol",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f500b1cef3b02074b04bca"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660223377493"
+    }
+  },
+  "content": "This is the second Group message by Amil",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f50251e468b36620ae32a0"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660224056948"
+    }
+  },
+  "GroupName": "69 Lover",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "69-Lover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f50263e468b36620ae32a5"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660224056948"
+    }
+  },
+  "GroupName": "Besties ",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "Besties",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5033ea6ed894c84d99e57"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660224263855"
+    }
+  },
+  "content": "This is the third Group message by Amil",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "69 Lover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f50965a9ca127a04894b86"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660225781516"
+    }
+  },
+  "GroupName": "The Best Ever Group",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "The-Best-Ever-Group",
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "62f50989a9ca127a04894b8a"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660225781516"
+    }
+  },
+  "content": "This is the first message by Amil the hacker lol",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "The Best Ever Group",
+  "GroupId": {
+    "$oid": "62f50965a9ca127a04894b86"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f509a5a9ca127a04894b8e"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660225781516"
+    }
+  },
+  "content": "This is the second message by Amol the better hacker lol",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "The Best Ever Group",
+  "GroupId": {
+    "$oid": "62f50965a9ca127a04894b86"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f50a4da9ca127a04894b99"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660225781516"
+    }
+  },
+  "content": "This is the third message by Amil the better hacker and only hacker lol",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "The Best Ever Group",
+  "GroupId": {
+    "$oid": "62f50965a9ca127a04894b86"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53be0064e606bfc0e9b07"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660238764065"
+    }
+  },
+  "content": "A very new message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53c06064e606bfc0e9b0b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660238764065"
+    }
+  },
+  "content": "Test Message",
+  "parentmessageid": {
+    "$oid": "62f53be0064e606bfc0e9b07"
+  },
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53c5c064e606bfc0e9b12"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660238764065"
+    }
+  },
+  "content": "Test Message",
+  "parentmessageid": {
+    "$oid": "62f50a4da9ca127a04894b99"
+  },
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "The Best Ever Group",
+  "GroupId": {
+    "$oid": "62f50a4da9ca127a04894b99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660239173571"
+    }
+  },
+  "GroupName": "AmolsGroup",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "AmolsGroup",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660239173571"
+    }
+  },
+  "content": "AMols group ka pehla message",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53f2a3289dd4a845b0e7c"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660239173571"
+    }
+  },
+  "content": "the first reply on the first message of this group",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53f996c3fa1735c367f2e"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660239758098"
+    }
+  },
+  "content": "the first reply on the first message of this group",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f53fc96c3fa1735c367f35"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660239758098"
+    }
+  },
+  "content": "the first reply on the first reply of this group",
+  "parentmessageid": {
+    "$oid": "62f53f996c3fa1735c367f2e"
+  },
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54164f2cc5104a08db1f5"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240180903"
+    }
+  },
+  "content": "A normal reply to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f541eaf2cc5104a08db1f9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240180903"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54292f2cc5104a08db1fd"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240180903"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f542b5f2cc5104a08db201"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240180903"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f542c7f2cc5104a08db205"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240180903"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f542f761504d4b70c8930c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240630837"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54309eea65f62d4f4590a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240646485"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54326b27c882e04a46d20"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240675801"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54351dfa78e53f45602e0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240717311"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5438b7dac7008407c5b1a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240776862"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f543a11d75c27a409f5a66"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240799169"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f543b733815d5650711104"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240821831"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f543d26274d55334e16e27"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660240848340"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f545ff1a4be72010fd6960"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660241388886"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54d135e736571c0f7e1cf"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243192510"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54d66e70d9761c084587b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243259372"
+    }
+  },
+  "content": "A very old message",
+  "GroupName": "hahah",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54d763104b461f8ac4e3c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243317796"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54dc8e825f4322cd46a64"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243339207"
+    }
+  },
+  "content": "A very old message",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54de2e825f4322cd46a68"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243339207"
+    }
+  },
+  "content": "A very old message",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54df321c047761c9d6783"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243436588"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62f54d763104b461f8ac4e3c"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54e2721c047761c9d6787"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243436588"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54e711ba05774105d1e83"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243564612"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54e9d44b13179b83f531f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243574171"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54ec41818fa75d8b1d6df"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243648242"
+    }
+  },
+  "content": "A very old message",
+  "sender_id": {
+    "$oid": "62f54d763104b461f8ac4e3c"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f54feb11b99f423c440c00"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243938331"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f541054b322b4e080f0e3b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5503411b99f423c440c04"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243938331"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5504711b99f423c440c08"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660243938331"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f550880a9f2f76e8bdf3d3"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5509f0a9f2f76e8bdf3d7"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "GroupName": "AmolsGroup",
+  "parentmessageid": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f550ae0a9f2f76e8bdf3db"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f550d50a9f2f76e8bdf3df"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f550ec0a9f2f76e8bdf3e3"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f551080a9f2f76e8bdf3ea"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "reciever_id": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5511e0a9f2f76e8bdf3ee"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244103740"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5519a29bdc055b43af22c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244358344"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5521b86dd0f06447f45a4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244493522"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5526586dd0f06447f45a8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244493522"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55298b80ae262c0093228"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244630010"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f552a5ce0af602e002be5c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244644177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f552b5ce0af602e002be60"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244644177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f552bdce0af602e002be64"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244644177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f552ced9a43c3298bdcb7e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660244684707"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f555142fde7c11704adbb7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660245254645"
+    }
+  },
+  "content": "AMols group ka pehla message",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f5552f6fe90c68a4439073"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660245294396"
+    }
+  },
+  "content": "AMols group ka pehla message",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55a0f7593fa70cc1e7438"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246541682"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ef03289dd4a845b0e78"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55a257593fa70cc1e743c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246541682"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f54ec41818fa75d8b1d6df"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62f54d763104b461f8ac4e3c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55a7289a26078d4f61fdc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246639102"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f54ec41818fa75d8b1d6df"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55a8489a26078d4f61fe0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246639102"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f54ec41818fa75d8b1d6df"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55a94942dea32f4ca7a48"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246674439"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "GroupName": "hehehhe",
+  "parentmessageid": {
+    "$oid": "62f54ec41818fa75d8b1d6df"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55ac0cf3d0008509cd318"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246700415"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55b0f295bf23bb007d62a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246782904"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55be75b45e362bc113f5a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660246978566"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f5552f6fe90c68a4439073"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55bf9af95111e0ccbd85a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247031925"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55c3cdea18764a48e932c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247094346"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55c57e3e5fa7064f47dd0"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247124114"
+    }
+  },
+  "content": "A normal reply 2 to the normal message",
+  "parentmessageid": {
+    "$oid": "62f5552f6fe90c68a4439073"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "AmolsGroup",
+  "GroupId": {
+    "$oid": "62f53ebd3289dd4a845b0e73"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55e9404d7855a84126d5f"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247191929"
+    }
+  },
+  "GroupName": "ManishGroup",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "ManishGroup",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62f55eae04d7855a84126d63"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247191929"
+    }
+  },
+  "content": "First message in Manish Group",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "GroupName": "ManishGroup",
+  "GroupId": {
+    "$oid": "62f55e9404d7855a84126d5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55f0704d7855a84126d67"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247191929"
+    }
+  },
+  "content": "First message in Manish Group by Amol",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "ManishGroup",
+  "GroupId": {
+    "$oid": "62f55e9404d7855a84126d5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f55f3704d7855a84126d6b"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660247191929"
+    }
+  },
+  "content": "This is reply to the message of Amol",
+  "parentmessageid": {
+    "$oid": "62f55f0704d7855a84126d67"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "ManishGroup",
+  "GroupId": {
+    "$oid": "62f55e9404d7855a84126d5f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303e9d6cfeee21c68c365a7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661200815822"
+    }
+  },
+  "GroupName": "Wohoo",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "Wohoo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303ea300cdca85df8726448"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661200935667"
+    }
+  },
+  "GroupName": "Wohoo",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "Wohoo",
+  "__v": 7
+},{
+  "_id": {
+    "$oid": "6303eb8ab710159468329ff6"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661201171828"
+    }
+  },
+  "content": "hello",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "Wohoo",
+  "GroupId": {
+    "$oid": "6303ea300cdca85df8726448"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303f097017e4195c8a1bed0"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661202536924"
+    }
+  },
+  "content": "This is reply to the message of with admins",
+  "parentmessageid": {
+    "$oid": "6303eb8ab710159468329ff6"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupName": "Wohoo",
+  "GroupId": {
+    "$oid": "6303ea300cdca85df8726448"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303f902c05c1e7730b7f7ee"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661204124552"
+    }
+  },
+  "GroupName": "Wohovgbo",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "Wohovgbo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63040e39c9937e5c84d4a6d0"
+  },
+  "groupmembers_id": [
+    {
+      "$oid": "62d0f477921480b238084142"
+    },
+    {
+      "$oid": "62e960fea8516f3238691139"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661207951258"
+    }
+  },
+  "GroupName": "Wohholao",
+  "GroupCreator": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "GroupNameSlug": "Wohholao",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "635063dca185928c50237f91"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666212804835"
+    }
+  },
+  "content": "This message is associated with Chat_id",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63506411ac36d137a04defa8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666212877136"
+    }
+  },
+  "content": "This message is associated with Chat_id2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350647973436e41a0ec3425"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666212976638"
+    }
+  },
+  "content": "This message is associated with Chat_id2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350686ba03c2f1750c37e97"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666213994485"
+    }
+  },
+  "content": "This message is associated with Chat_id4",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350688aa03c2f1750c37e9f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666213994485"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635068df9f1adf62648adcdc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666214059102"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63506923a80fcc5788e18124"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666214177699"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635069a5f2cbd13f3c237b40"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666214302708"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63506e3b9e018a467c4431c4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666215481770"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63506e6ecf327e7cb0e1ace9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666215508760"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63506e89cfbfef3e44362fd8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666215559665"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63506ee0313126912cb23807"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666215642296"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635071609e1de965048bf27c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216285364"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635071eb8dc43547bcf1f9ac"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216419711"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350725214a77da528016f5f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216524567"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 6350686ba03c2f1750c37e95",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63507278b37bf020cc08534f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216559251"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 62e960fea8516f3238691139",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350728cb37bf020cc085355"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216559251"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 62e960fea8516f3238691139 again",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63507293b37bf020cc08535b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216559251"
+    }
+  },
+  "content": "This message is associated with Chat_id5 with same users with Chat_id 62e960fea8516f3238691139 again again",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350738da68a0036ec5efcf5"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666216785017"
+    }
+  },
+  "content": "This is reply to the message of with chat_id",
+  "parentmessageid": {
+    "$oid": "63507293b37bf020cc08535b"
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351075d64116f656ceb1603"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351078b64116f656ceb160d"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635107cc64116f656ceb161a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63510ede64116f656ceb1647"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63510ede64116f656ceb1645"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635110e564116f656ceb169a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635111d664116f656ceb16ae"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "content": "newMessage",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351121c64116f656ceb16b4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "content": "Another content",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635114ea64116f656ceb16cf"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666253217308"
+    }
+  },
+  "content": "hello",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63511cf5afb2ef853c365a94"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "Message from amol",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63511d0cafb2ef853c365aa1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "message from amol 2",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63511df7afb2ef853c365af1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "message from amil",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63511efeafb2ef853c365afb"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "message from amil 4",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63511f57afb2ef853c365b05"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "message from amil 5",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63512249afb2ef853c365b59"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "Message by Akash ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635127b3afb2ef853c365bb3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "                            ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635127cdafb2ef853c365bc5"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666260151210"
+    }
+  },
+  "content": "Hi form Akash",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63517b65d76ea45448f1743e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666284106642"
+    }
+  },
+  "content": "hey bro new message by Amol verma haha !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63517b8ed76ea45448f1744b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666284106642"
+    }
+  },
+  "content": "Another message yaar you are my friend !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63517b9fd76ea45448f17458"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666284106642"
+    }
+  },
+  "content": "Thanks man whats up !",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635182f8d76ea45448f17522"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666284106642"
+    }
+  },
+  "content": "I am also good dude ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63518302d76ea45448f1752f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666284106642"
+    }
+  },
+  "content": "same here my friend ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63518d239792efaa98c0327d"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666287983516"
+    }
+  },
+  "content": "dv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635194e42310dd1e4407df87"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "Test message ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635197b52310dd1e4407e04b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "socket test",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635198262310dd1e4407e05b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "socket test2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635198bf2310dd1e4407e06b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "socket 2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351991f2310dd1e4407e071"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "socket test 3",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635199852310dd1e4407e081"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "socket test 4",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635199a22310dd1e4407e087"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290148514"
+    }
+  },
+  "content": "socket test tetststststst",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519b69520a778008f6cecc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666292572549"
+    }
+  },
+  "content": "message from amil 6",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519bb7704bc03e68b2264c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666292654955"
+    }
+  },
+  "content": "message from amil 7",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519be4b0664c8b3cdd6b81"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666292699088"
+    }
+  },
+  "content": "message from amil 7",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519c1da1dd393830253583"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666292752648"
+    }
+  },
+  "content": "message from amil 8",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519c7c808a1d5cc0c50b84"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666292846717"
+    }
+  },
+  "content": "message from amil 9",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63519ce19aa3aeaa70a69ad9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666292954323"
+    }
+  },
+  "content": "message from amil 11",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a37852ddaa70bcf601a8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666294451686"
+    }
+  },
+  "content": "socket test again",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a4371b2bd7a408d9825e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666294824915"
+    }
+  },
+  "content": "again ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a4961b2bd7a408d98278"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666294824915"
+    }
+  },
+  "content": "wassup nigga",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a7029b318561b0dd254a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666295549367"
+    }
+  },
+  "content": "message from amil 112",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a7189b318561b0dd2550"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666295549367"
+    }
+  },
+  "content": "message from amil 11w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a741130d126538292738"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666295608721"
+    }
+  },
+  "content": "message from amil 11w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a8000ba6a88e14847cb5"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666295759242"
+    }
+  },
+  "content": "message from amil 11w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a81dd14fc8348c14eacc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666295822896"
+    }
+  },
+  "content": "message from amil 11w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a8846899719e0806766a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666295928380"
+    }
+  },
+  "content": "message from amil 1dsv1w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351a9627699ed8f9c0251c7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666296086442"
+    }
+  },
+  "content": "Again a test message ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ad00aaa29078f810aa1e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666297076051"
+    }
+  },
+  "content": "message from amil 1dsfdgfnv1w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ad418a352069a09babce"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666297144150"
+    }
+  },
+  "content": "message from amil 1dsfdgfnv1w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ad916c6bbd8504057b34"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666297212676"
+    }
+  },
+  "content": "message from amil 1kascasssssssssssssssssfnv1w2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351adb26c6bbd8504057b3b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666297212676"
+    }
+  },
+  "content": "testing socket woohoo",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b1885a398f0bbc4c8177"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666298226379"
+    }
+  },
+  "content": "a very goof msg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b1e8399f698464274278"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666298319874"
+    }
+  },
+  "content": "hey wassup",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b2f3792b635c6c9da084"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666298580534"
+    }
+  },
+  "content": "What was the error ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b367aaa76344bcdcecb0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666298704486"
+    }
+  },
+  "content": "uguyguyg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b3ad1e004172c89c2d5a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666298782820"
+    }
+  },
+  "content": "this time it will work !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b5e0d719a148544b61e0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299305977"
+    }
+  },
+  "content": "Another message yaar you are my friend !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b621d972347134069b8c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299413331"
+    }
+  },
+  "content": "uguyguyg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b65d6fc6017694f17e70"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299475247"
+    }
+  },
+  "content": "socket test2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b6a1a7a5c89438242fb3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299519368"
+    }
+  },
+  "content": "gndgngdndgn",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b6f69058951c5899bbe2"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299630754"
+    }
+  },
+  "content": "vwwve",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b72b7f2eaf60f0bc20cc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299688423"
+    }
+  },
+  "content": "sdbsfbsbfsf",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b765c1f42e68a84a1b75"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299731523"
+    }
+  },
+  "content": "casac",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b77d8033696a3c5acf53"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299765788"
+    }
+  },
+  "content": "avadva",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b795e76433096079bff2"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299789607"
+    }
+  },
+  "content": "eavda",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b7afc90cd15f50d613d2"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299820337"
+    }
+  },
+  "content": "asvasdva",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b7dd494b95880840fc0c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299854905"
+    }
+  },
+  "content": "boom bomm",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b7fa3335245da0367405"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299893185"
+    }
+  },
+  "content": "wegvwv e last",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b8183335245da036740c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666299893185"
+    }
+  },
+  "content": "cecwewc",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b87b2b534aa068be6f00"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300025014"
+    }
+  },
+  "content": "sdvsdd s",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b93294b7996fd0e2403c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300159344"
+    }
+  },
+  "content": "hey",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b99a94b7996fd0e2408d"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300159344"
+    }
+  },
+  "content": "how are u ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351b9cd94b7996fd0e24090"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300159344"
+    }
+  },
+  "content": "how are u ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351bc2a5def2863d4d24a74"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300867606"
+    }
+  },
+  "content": "I like u",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351bd405def2863d4d24a7b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300867606"
+    }
+  },
+  "content": "socket test2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351be175def2863d4d24aa0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300867606"
+    }
+  },
+  "content": "hehehe",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351bef25def2863d4d24abb"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666300867606"
+    }
+  },
+  "content": "thankyou!",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ca5ba568c35780088e56"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666303987274"
+    }
+  },
+  "content": "egwv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ca6ca568c35780088e71"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666303987274"
+    }
+  },
+  "content": "dvsb ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ca73a568c35780088e78"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666303987274"
+    }
+  },
+  "content": "dsfvbcv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cab3a568c35780088e9d"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666303987274"
+    }
+  },
+  "content": "aDCSZBXNV",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cadea568c35780088eb8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666303987274"
+    }
+  },
+  "content": "SVAA",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cb6815bf8031f080efd9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304809366"
+    }
+  },
+  "content": "SFADB",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cb95027afc8edc6f1bdf"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "FSVB ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cbc0027afc8edc6f1be6"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": " Z",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ce23027afc8edc6f1c72"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "a ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ce2c027afc8edc6f1c7e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "a ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ce4b027afc8edc6f1c86"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "Hi My name is Amol",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ce4f027afc8edc6f1c8e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "Hi My name is Amol",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ce8a027afc8edc6f1c95"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "asc",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ceb2027afc8edc6f1cba"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "Heyyyaaa",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ced5027afc8edc6f1cc1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "scvbfvdcs zxcsa dvd as",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cef2027afc8edc6f1cc8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "listen listen",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351cf7f027afc8edc6f1d29"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666304907789"
+    }
+  },
+  "content": "kjhbvbb",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d0110dab887ec43312ba"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306024994"
+    }
+  },
+  "content": "kjvjkvk",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d01a0dab887ec43312c1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306024994"
+    }
+  },
+  "content": "dtfghjk",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d035bf3b3d5d088cb894"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306093780"
+    }
+  },
+  "content": "socket test2",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d08ab93c7f4ccc60396f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306177504"
+    }
+  },
+  "content": "Another message yaar you are my friend !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d0c06e3fffa108ffa5c5"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306234308"
+    }
+  },
+  "content": "Another message yaar you are my friend !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d12388021c3d147642d3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306272124"
+    }
+  },
+  "content": "bfdb",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d39967779158b49af155"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306909298"
+    }
+  },
+  "content": "c",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d3a267779158b49af15c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666306909298"
+    }
+  },
+  "content": "c",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d410ca86c96b308071bb"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307004792"
+    }
+  },
+  "content": "d",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d42cca86c96b308071d6"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307004792"
+    }
+  },
+  "content": "abcd",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d4d2345dbc30bc739a4e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307248120"
+    }
+  },
+  "content": "sv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d59e0bcf421c0874459f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307475270"
+    }
+  },
+  "content": "bxfvmn",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d5af0bcf421c087445ba"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307475270"
+    }
+  },
+  "content": "Another message yaar you are my friend !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d5e30bcf421c087445d5"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307475270"
+    }
+  },
+  "content": "vbcx v",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d5ea0bcf421c087445dc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307475270"
+    }
+  },
+  "content": "socket test2",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d6020017027c146187f4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307576840"
+    }
+  },
+  "content": "ggvm,bn",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d6380017027c14618823"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307576840"
+    }
+  },
+  "content": "m",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d6742fc2103148af76e9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666307679918"
+    }
+  },
+  "content": "cnmmc",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d7c811c3545bc0847c12"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308015242"
+    }
+  },
+  "content": "wfagveb",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d8605da7b5127cae559f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308073597"
+    }
+  },
+  "content": "Another message yaar you are my friend !",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d8f05da7b5127cae55ba"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308073597"
+    }
+  },
+  "content": "mv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d9015da7b5127cae55c1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308073597"
+    }
+  },
+  "content": "hb,m.",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d9965c64731a60af2ad7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308493049"
+    }
+  },
+  "content": "nvmnb,m",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d9be4cba9a8fa0a2008e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308529937"
+    }
+  },
+  "content": "b,.b.k.k",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d9cf0906a68584ecf544"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308550867"
+    }
+  },
+  "content": "hj.k",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351d9f21691783eb895d9ec"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308584172"
+    }
+  },
+  "content": "ngmhhgj,",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351da37057b683a14e65b16"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308616205"
+    }
+  },
+  "content": "sadfgvn",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351da9d3653e021fc42c285"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "gfhdgnm",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351daaa3653e021fc42c28c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "ghfgh,",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351dab53653e021fc42c293"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "fhghj",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351dabc3653e021fc42c29a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "fhg,j",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db203653e021fc42c2df"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "hjgfh",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db233653e021fc42c2e4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "fjfj",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db2c3653e021fc42c2eb"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "dghfjdmg",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db333653e021fc42c2f2"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "arfghsrf",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db473653e021fc42c2f9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "sfzdxfn",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db4b3653e021fc42c300"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "fgjm",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db703653e021fc42c32f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "Hey",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351db773653e021fc42c336"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "Wassup",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351dba23653e021fc42c33d"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "I am fine how are you",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351dcd83653e021fc42c36c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666308757461"
+    }
+  },
+  "content": "Hi kamal bhai",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351e072341b642828ddc56f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666309379554"
+    }
+  },
+  "content": "sfbsfbsb",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351e2c8341b642828ddc742"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666309379554"
+    }
+  },
+  "content": "woah",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351e2e4341b642828ddc771"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666309379554"
+    }
+  },
+  "content": "sdbv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351e91955bd216b644c76dc"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666311249194"
+    }
+  },
+  "content": "dvwvdwvwvdwvdwwvwvw",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351e91d55bd216b644c76e3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666311249194"
+    }
+  },
+  "content": "wvwvwvwvw",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351e92155bd216b644c76ea"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666311249194"
+    }
+  },
+  "content": "wvwv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351eaec661add74fc2145fe"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666312913015"
+    }
+  },
+  "content": "dsavsd",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351eaf5661add74fc214605"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666312913015"
+    }
+  },
+  "content": "asvasvvdadadv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ec69b5144a2bdcc8da86"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Hey guys wassup",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ed83b5144a2bdcc8dae3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "hvkvkvkvkvvv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ee2fb5144a2bdcc8db12"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "How are you long time no see",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ee3bb5144a2bdcc8db19"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "I am fine how are you ?",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ee4cb5144a2bdcc8db20"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "I am also good thank you ! : )",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ee54b5144a2bdcc8db27"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Good to hear ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ee57b5144a2bdcc8db2e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "bye",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351ee5eb5144a2bdcc8db35"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "GoodBye",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351eebfb5144a2bdcc8db6a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Hi again whats going on ??",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351eecbb5144a2bdcc8db71"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Nothing much I am fine how are you ?",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351eed4b5144a2bdcc8db78"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "I am also doing good :D",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351eedeb5144a2bdcc8db7f"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Wow Good to know that !",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351f0e2b5144a2bdcc8dbb4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Hey there hows it going ???",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351f0efb5144a2bdcc8dbbb"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "I am fine man how are u though",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351f0fab5144a2bdcc8dbc2"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "yeah its been a while but I am fine ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351f0ffb5144a2bdcc8dbc9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Good to know",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351f102b5144a2bdcc8dbd0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "Byeee",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351f107b5144a2bdcc8dbd7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313219602"
+    }
+  },
+  "content": "byee",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352c691e5e6d6989c103a45"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666368838112"
+    }
+  },
+  "content": "Hi!",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637522b96444149f983ad5a1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668615237839"
+    }
+  },
+  "content": "lund",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377a6ceb3c0060016051cd2"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668783583784"
+    }
+  },
+  "content": "hey",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae3d03c47bcc7324275727"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672359205801"
+    }
+  },
+  "content": "wwdwdwddwdwwdwd",
+  "sender_id": {
+    "$oid": "62d0f77ea6a521b934cce2ff"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae3dd29be2a88360f72717"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672363420233"
+    }
+  },
+  "content": "a very goof msg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae3ed99be2a88360f72a8b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672363420233"
+    }
+  },
+  "content": "hey lalalalala",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae3f889be2a88360f72b71"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672363420233"
+    }
+  },
+  "content": "Hi bro how are u !",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae40ee1c3c9c797805b8c4"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672364179005"
+    }
+  },
+  "content": "I am fine dude",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae40fd1c3c9c797805b8e0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672364179005"
+    }
+  },
+  "content": "sure",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae41001c3c9c797805b8e7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672364179005"
+    }
+  },
+  "content": "yeah",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae41021c3c9c797805b8ee"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672364179005"
+    }
+  },
+  "content": "ok",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae42dce22ee4789c37dad7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672364755721"
+    }
+  },
+  "content": "a very goof msg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae581970d59f7094c179a1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672370172507"
+    }
+  },
+  "content": "again me is her",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63af81a6de05ec9f848199f3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672446372640"
+    }
+  },
+  "content": "a very goof msg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63af8d20d68a0d792cc4376a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672449232858"
+    }
+  },
+  "content": "To ccheck the other API",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63af8d53d68a0d792cc4383c"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672449232858"
+    }
+  },
+  "content": "Final Check for this Algo",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "633f8cb8dec5f00016b07ac4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63af90ecd68a0d792cc43a24"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672449232858"
+    }
+  },
+  "content": "not bad man ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63af9d957c22b206181865b9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672450357461"
+    }
+  },
+  "content": "sccssccccc",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63af9e377c22b2061818693a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672450357461"
+    }
+  },
+  "content": "dsvsdv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0d9aad7c33763d86f0426"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672530463857"
+    }
+  },
+  "content": "dvdv",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "633f8cb8dec5f00016b07ac4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0e94290a9149dc47e269b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "bfbf",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0e98890a9149dc47e34c8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "gfg",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0ea3d90a9149dc47e7b25"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hey",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0eb7690a9149dc47ef6e7"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hmm",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "633f8cb8dec5f00016b07ac4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f18890a9149dc48076ba"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hehe",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f3c290a9149dc4810040"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "Hi !",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f3dc90a9149dc4810a3e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "How are you ?",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f3f190a9149dc481129d"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "I am fine buddy",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f40190a9149dc4811958"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "sds",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f48a90a9149dc4814f71"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hmmm",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f49290a9149dc48152d8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "fghfhfhfh",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f4b090a9149dc4815ef9"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "reherherherhehe",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f4b590a9149dc48160b8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "dhrthr",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f51790a9149dc4818686"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hmm",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f51b90a9149dc4818847"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "jhvvjv",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f55690a9149dc4819dce"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "aur bro ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f58290a9149dc481adb3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "socket chala ??",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f58c90a9149dc481b123"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "nahi bhai",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f5c090a9149dc481b9e1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "ab ",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f5e290a9149dc481c2d0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "ha ab chala",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f71f90a9149dc48240f3"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "ok",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f7d990a9149dc482801a"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hello",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f7f990a9149dc4828c8b"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "socket test",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0f7fe90a9149dc4828ea1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "dvsdv",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0fb5890a9149dc483d84e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hvbvjv",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0fe8290a9149dc48477d8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "hey ya",
+  "sender_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b0ffab90a9149dc48483f8"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": "jsdbvsbdv",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b1084e90a9149dc487c2e0"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": " ",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b1087190a9149dc487d11e"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": " ",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b1087790a9149dc487d336"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672536833754"
+    }
+  },
+  "content": ".",
+  "sender_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "reciever_id": {
+    "$oid": "62d0f477921480b238084142"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c19c3f4cfc20110dd87fb1"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673150386867"
+    }
+  },
+  "content": "hi",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "63ae3ea79be2a88360f72a65"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c19c5b4cfc20110dd88451"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673150386867"
+    }
+  },
+  "content": "hi",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "633f8cb8dec5f00016b07ac4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c28e1abb8bf621e1815c27"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673691811271"
+    }
+  },
+  "content": "hi ankit",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "633f8cb8dec5f00016b07ac4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2d7a95cce2757a8735292"
+  },
+  "groupmembers_id": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673713563825"
+    }
+  },
+  "content": "Whats Up Malti ",
+  "sender_id": {
+    "$oid": "62e960fea8516f3238691139"
+  },
+  "reciever_id": {
+    "$oid": "633f8cb8dec5f00016b07ac4"
+  },
+  "__v": 0
+}]
